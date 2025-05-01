@@ -1,0 +1,362 @@
+[
+    {
+        "id":1,
+        "title": "Inception",
+        "genre" :"Crime",
+        "rating": 5.0,
+        "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "poster": "/assets/poster1.jpg",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Ellen Page"
+        ]
+    },
+    {
+        "id":2,
+        "title": "The Dark Knight",
+        "genre" :"Action",
+        "rating": 4.5,
+        "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "poster": "/assets/poster2.jpg",
+        "cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ]
+    },
+    {
+        "id":3,
+        "title": "The Shawshank Redemption",
+        "genre" : "Mystery",
+        "rating": 4.5,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "poster": "/assets/poster3.jpg",
+        "cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ]
+    },
+    {
+        "id":4,
+        "title": "The Godfather",
+        "genre": "Crime",
+        "rating": 9.1,
+        "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "poster": "/assets/poster4.webp",
+        "cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ]
+    },
+    {
+        "id":5,
+        "title": "The Matrix",
+        "genre":"Adventure",
+        "rating": 7.2,
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "poster": "/assets/poster5.jpg",
+        "cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ]
+    },
+    {
+        "id":6,
+        "title": "The Lion King",
+        "genre": "Animation",
+        "rating": 9.0,
+        "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "poster": "/assets/poster6.jpg",
+        "cast": [
+            "Matthew Broderick",
+            "James Earl Jones",
+            "Jeremy Irons"
+        ]
+    },
+    {
+        "id":7,
+        "title": "Forrest Gump",
+        "genre":"Comedy",
+        "rating": 2.4,
+        "description": "The presidencies of Kennedy and Johnson, the Vietnam War, the civil rights movement, and other historical events unfold from the perspective of an Alabama man with an extraordinary heart.",
+        "poster": "/assets/poster7.jpg",
+        "cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ]
+    },
+    {
+        "id":8,
+        "title": "Fight Club",
+        "genre" : "Action",
+        "rating": 7.5,
+        "description": "An insomniac office worker, looking for a way to change his life, crosses paths with a devil-may-care soapmaker, forming an underground fight club.",
+        "poster": "/assets/poster8.jpg",
+        "cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter"
+        ]
+    },
+    {
+        "id":9,
+        "title": "Pulp Fiction",
+        "genre": "Comedy",
+        "rating": 6.2,
+        "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "poster": "/assets/poster9.webp",
+        "cast": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ]
+    },
+    {
+        "id":10,
+        "title": "The Avengers",
+        "genre": "Adventure",
+        "rating": 7.0,
+        "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "poster": "/assets/poster10.jpg",
+        "cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ]
+    },
+    {
+        "id":11,
+        "title": "The Departed",
+        "genre":"Crime",
+        "rating": 4.6,
+        "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in Boston.",
+        "poster": "/assets/poster11.jpg",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ]
+    },
+    {
+        "id":12,
+        "title": "Gladiator",
+        "genre":"Drama",
+        "rating": 8.6,
+        "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "poster": "/assets/poster12.webp",
+        "cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ]
+    },
+    {
+        "id":13,
+        "title": "The Dark Knight Rises",
+        "genre":"Action",
+        "rating": 6.3,
+        "description": "Eight years after the events of The Dark Knight, Batman is forced to return to Gotham City to face the masked terrorist Bane, who is determined to destroy the city.",
+        "poster": "/assets/poster13.webp",
+        "cast": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway"
+        ]
+    },
+    {
+        "id":14,
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "rating": 8.9,
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "poster": "/assets/poster14.webp",
+        "cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ]
+    },
+    {
+        "id":15,
+        "title": "The Social Network",
+        "genre":"Drama",
+        "rating": 7.9,
+        "description": "The story of Facebook's creation, focusing on the legal battles that arose between its founders.",
+        "poster": "/assets/poster15.jpg",
+        "cast": [
+            "Jesse Eisenberg",
+            "Andrew Garfield",
+            "Justin Timberlake"
+        ]
+    },
+    {
+        "id":16,
+        "title": "The Prestige",
+        "genre":"Thriller",
+        "rating": 5.6,
+        "description": "Two magicians engage in a bitter rivalry, each trying to best the other's illusions while also dealing with the personal costs of their obsession.",
+        "poster": "/assets/poster16.jpg",
+        "cast": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ]
+    },
+    {
+        "id":17,
+        "title": "Avatar",
+        "genre":"Action",
+        "rating": 8.0,
+        "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "poster": "/assets/poster17.jpg",
+        "cast": [
+            "Sam Worthington",
+            "Zoe Saldana",
+            "Sigourney Weaver"
+        ]
+    },
+    {
+        "id":18,
+        "title": "Jurassic Park",
+        "genre":"Adventure",
+        "rating": 7.2,
+        "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run wild.",
+        "poster": "/assets/poster18.jpg",
+        "cast": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ]
+    },
+    {
+        "id":19,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "genre":"Sci-Fi",
+        "rating": 7.5,
+        "description": "Luke Skywalker and Han Solo rescue Princess Leia from the evil forces of the Empire in this epic space opera.",
+        "poster": "/assets/poster19.jpg",
+        "cast": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ]
+    },
+    {
+        "id":20,
+        "title": "Schindler's List",
+        "genre":"Horror",
+        "rating": 4.6,
+        "description": "In German-occupied Poland during World War II, businessman Oskar Schindler gradually becomes concerned for his Jewish employees after witnessing their persecution by the Nazis.",
+        "poster": "/assets/poster20.jpg",
+        "cast": [
+            "Liam Neeson",
+            "Ben Kingsley",
+            "Ralph Fiennes"
+        ]
+    },
+    {
+        "id":21,
+        "title": "Spider-Man: No Way Home",
+        "genre":"Adventure",
+        "rating": 8.0,
+        "description": "Spider-Man seeks help from Doctor Strange to make the world forget that he is Spider-Man, but things go awry.",
+        "poster": "/assets/poster21.jpg",
+        "cast": [
+            "Tom Holland",
+            "Zendaya",
+            "Benedict Cumberbatch"
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Sinners",
+        "genre": "Horror",
+        "rating": 6.8,
+        "description": "A period horror-action film set in 1932 Mississippi, starring Michael B. Jordan as twin brothers confronting a supernatural evil.",
+        "poster": "/assets/poster22.jpg",
+        "isTrending":true,
+        "cast": ["Michael B. Jordan", "Hailee Steinfeld", "Miles Caton"]
+      },
+      {
+        "id": 23,
+        "title": "A Minecraft Movie",
+        "genre": "Adventure",
+        "rating": 8.6,
+        "description": "A live-action adaptation of the popular video game, bringing the blocky world of Minecraft to life on the big screen.",
+        "poster": "/assets/poster23.jpg",
+        "cast": ["TBD"]
+      },
+      {
+        "id": 24,
+        "title": "Until Dawn",
+        "genre": "Horror",
+        "rating": 7.6,
+        "description": "A terrifying tale based on the popular video game, where a group of friends must survive a night of horror in a remote mountain lodge.",
+        "poster": "/assets/poster24.jpg",
+        "isTrending": true,
+        "cast": ["TBD"]
+      },
+      {
+        "id": 25,
+        "title": "The Accountant 2",
+        "genre": "Thriller",
+        "rating": 4.6,
+        "description": "The sequel to the 2016 hit, following the high-functioning accountant as he uncovers a new conspiracy.",
+        "poster": "/assets/poster25.jpg",
+        "isTrending": true,
+        "cast": ["Ben Affleck", "J.K. Simmons"]
+      },
+      {
+        "id": 26,
+        "title": "The Life List",
+        "genre": "Romantic",
+        "rating": 7.2,
+        "description": "A Netflix original film about a woman who creates a life list to fulfill her dreams, leading to unexpected adventures.",
+        "poster": "/assets/poster26.jpg",
+        "isTrending": true,
+        "cast": ["Sofia Carson", "TBD"]
+      },
+      {
+        "id": 27,
+        "title": "The Legend of Ochi",
+        "genre": "Fantasy",
+        "rating": 5.6,
+        "description": "A visually stunning fantasy film set in a mythical world, following a young hero's journey to save their kingdom.",
+        "poster": "/assets/poster27.jpg",
+        "isTrending": true,
+        "cast": ["TBD"]
+      },
+      {
+        "id": 28,
+        "title": "Black Bag",
+        "genre": "Thriller",
+        "rating": 7.6,
+        "description": "A gripping thriller about a journalist uncovering a government conspiracy that puts her life in danger.",
+        "poster": "/assets/poster28.jpg",
+        "isTrending": true,
+        "cast": ["TBD"]
+      },
+      {
+        "id": 29,
+        "title": "The Fast and the Furious",
+        "genre": "Action",
+        "rating": 8.9,
+        "description": "A Los Angeles street racer becomes a suspect in a series of high-speed truck hijackings.",
+        "poster": "/assets/poster29.jpg",
+        "cast": ["Vin Diesel", "Paul Walker", "Michelle Rodriguez"]
+      },
+      {
+        "id": 30,
+        "title": "2 Fast 2 Furious",
+        "genre": "Action",
+        "rating": 8.6,
+        "description": "Ex-cop Brian O'Conner teams up with his ex-con friend Roman Pearce to transport a shipment of dirty money for shady Miami-based import-export dealer Carter Verone.",
+        "poster": "/assets/poster30.jpg",
+        "cast" : ["Tyrese Gibson", "Paul Walker","Eva Mendez"]
+      }
+]
